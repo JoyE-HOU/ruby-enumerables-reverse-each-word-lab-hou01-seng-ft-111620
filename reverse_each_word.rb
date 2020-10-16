@@ -1,6 +1,5 @@
 def reverse_each_word (string)
   
-  #sentence.reverse do
     
   array = string.split(" ")
   
